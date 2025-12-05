@@ -32,11 +32,13 @@ cp .env.example .env
 php artisan key:generate
 php artisan migrate
 php artisan serve
+```
 ### 2. Setup Frontend
+```bash
 cd frontend
 npm install
 npm run dev
-
+```
 Dev: Bình
 
 Contact: Daylataikhoancuabinh@gmail.com
